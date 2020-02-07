@@ -2,7 +2,7 @@
 
 This application allows users to view various real estate listings, host their listings, schedule viewings of listings, being able to confirm and decline said viewings and instant messaging between users. This app served as a graduation requirement for Flatiron School's Software Immersive Program.
 
-Watch the demo for this application [here](https://youtu.be/J6DzY0vr31o)!
+Watch the demo for this application [here!](https://youtu.be/J6DzY0vr31o)
 
 This is the frontend repo for Home Finder, the backend can be found at the following address:
 https://github.com/oneilsw/backend-of-homefinder
